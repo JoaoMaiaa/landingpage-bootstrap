@@ -1,0 +1,20 @@
+body{
+    background-image: url('../images/backgroundLp.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.card{
+    background-color:#131212f1!important;
+}
+
+button:hover{
+    color:#fff!important;
+}
+
+img{
+    width:180px;
+}

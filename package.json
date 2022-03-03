@@ -1,0 +1,22 @@
+{
+  "name": "landingpage-bootstrap",
+  "version": "1.0.0",
+  "description": "exercicio de landing page com bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoMaiaa/landingpage-bootstrap.git"
+  },
+  "author": "Joao Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoMaiaa/landingpage-bootstrap/issues"
+  },
+  "homepage": "https://github.com/JoaoMaiaa/landingpage-bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
